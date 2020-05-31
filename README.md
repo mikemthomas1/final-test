@@ -20,13 +20,13 @@
 <h2>Achievements</h2>
 <label for="file">Progress in this course (100%)</label>
 
-<progress id="file" max="100" value="100"> 70% </progress><br>
+<progress id="file" max="100" value="100"> 100% </progress><br>
 <label for="file">Progress in the Specialization capstone (20%)</label>
 
-<progress id="file" max="100" value="20"> 70% </progress><br>
+<progress id="file" max="100" value="20"> 20% </progress><br>
 <label for="file">Progress in life goals (85%)</label>
 
-<progress id="file" max="100" value="85"> 70% </progress>
+<progress id="file" max="100" value="85"> 85% </progress>
 
 <h2>More About Me</h2>
 <details>
