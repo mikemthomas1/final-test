@@ -8,7 +8,7 @@
   <a href="/One/">One</a>
   <a href="/Two/">Two</a>
   <a href="/Three/">Three</a>
-  <a href="/More About Me/">More About Michael</a>
+  <a href="/More About Me/">More About Me</a>
 </nav>
 <h2>My Favorite Foods</h2>
 <ul>
